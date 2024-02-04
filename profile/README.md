@@ -42,8 +42,6 @@ We believe that every project is unique and deserves a customized approach. When
 
 At Liberu, we are committed to delivering excellence in every project we undertake. With a customer-centric approach, top-notch expertise, and a passion for innovation, we strive to exceed your expectations and help you achieve your business goals.
 
-See https://github.com/orgs/laravel-liberu/repositories for more of our repositories.
-
 ## Sponsorship
 Liberu is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
 
@@ -60,6 +58,7 @@ By sponsoring Liberu, your company/organization can make a meaningful impact in 
 ## Support services  
 While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
 If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+
 ### With premium support you will get:
 
 * First priority on having your issues addressed
@@ -72,4 +71,3 @@ If you need premium support when building your own applications with Liberu, we 
 * 1-2-1 assistance on version upgrades
 * Direct communication via Slack (during our office hours only)
 * We have 4 members on our dedicated support team, so there should be little if any waiting!
-
