@@ -1,10 +1,16 @@
 # Liberu Software Ltd
 
-Liberu is an innovative open source project built using Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3 aimed at revolutionizing the field of open source. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.3 to create a cutting-edge platform for building any project.
+Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 11, PHP 8.3, Livewire 3, and Filament 3 to redefine the landscape of web development.
 
-Our main project is a sophisticated genealogy website built on Laravel 11, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
+Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 11 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
-Moreover, the open source nature of our projects encourage collaboration and innovation within the genealogy community. Developers can leverage Laravel 11 and PHP 8.3 to extend the functionality of Liberu, contribute enhancements, and customize the platform to suit their specific requirements. We actively support a thriving community of developers who utilize our open source code to create complementary tools and applications, fostering an ecosystem of continuous improvement and expansion.
+With PHP 8.3 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
+
+At the heart of administrative efficiency lies Filament 3, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
+
+And the best part? Liberu is open-source, released under the permissive MIT license. We invite developers, creators, and contributors from around the globe to join us on this journey. Unleash your creativity, customize Liberu to suit your vision, and contribute to a thriving community dedicated to pushing the boundaries of web development.
+
+Welcome to Liberu – where innovation meets freedom, and the future of web development is in your hands. Together, let's liberate possibilities.
 
 ### Licensed under MIT, use for any personal or commercial project.
 
@@ -26,11 +32,6 @@ Moreover, the open source nature of our projects encourage collaboration and inn
 * https://github.com/liberu-ecommerce
 * https://github.com/liberu-maintenance
 * https://github.com/liberu-real-estate
-
-## About
-Our team of skilled developers and designers is passionate about creating innovative solutions that transform businesses and streamline processes.
-
-At Liberu, we harness the power of Laravel 10, PHP 8.2, Vue 3, and Nuxt 3 to build robust and scalable applications that cater to the unique needs of our clients. These industry-leading technologies allow us to develop high-performance web applications, APIs, and microservices with unparalleled efficiency and reliability.
 
 ### Our Approach:
 We believe that every project is unique and deserves a customized approach. When you partner with Liberu, we take the time to understand your business goals, challenges, and requirements. Our team of experts collaborates closely with you to design, develop, and deliver tailor-made solutions that drive growth and enhance your competitive edge.
