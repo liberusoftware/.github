@@ -25,13 +25,13 @@ Welcome to Liberu – where innovation meets freedom, and the future of web deve
 * https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
 
 ### Other active projects
-* https://github.com/liberu-accounting
-* https://github.com/liberu-automation
-* https://github.com/liberu-cms
-* https://github.com/liberu-crm
-* https://github.com/liberu-ecommerce
-* https://github.com/liberu-maintenance
-* https://github.com/liberu-real-estate
+* https://github.com/liberu-accounting/accounting-laravel
+* https://github.com/liberu-automation/automation-laravel
+* https://github.com/liberu-cms/cms-laravel
+* https://github.com/liberu-crm/crm-laravel
+* https://github.com/liberu-ecommerce/ecommerce-laravel
+* https://github.com/liberu-maintenance/maintenance-laravel
+* https://github.com/liberu-real-estate/real-estate-laravel
 
 ### Our Approach:
 We believe that every project is unique and deserves a customized approach. When you partner with Liberu, we take the time to understand your business goals, challenges, and requirements. Our team of experts collaborates closely with you to design, develop, and deliver tailor-made solutions that drive growth and enhance your competitive edge.
