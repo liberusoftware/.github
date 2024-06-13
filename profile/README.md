@@ -16,22 +16,21 @@ Welcome to Liberu – where innovation meets freedom, and the future of web deve
 
 ## Our Projects
 
-* https://github.com/liberusoftware/boilerplate - Boilerplate application using Laravel 11, PHP 8.3, Filament 3.2 and LiveWire 3.
-
-### Genealogy related projects
-* [https://github.com/liberu-genealogy](https://github.com/liberu-genealogy/genealogy-laravel) - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
-
-### Other active projects
 * https://github.com/liberu-accounting/accounting-laravel
 * https://github.com/liberu-automation/automation-laravel
+* https://github.com/liberu-billing/billing-laravel
+* https://github.com/liberusoftware/boilerplate
+* https://github.com/liberu-browser-game/browser-game-laravel
 * https://github.com/liberu-cms/cms-laravel
+* https://github.com/liberu-control-panel/control-panel-laravel
 * https://github.com/liberu-crm/crm-laravel
 * https://github.com/liberu-ecommerce/ecommerce-laravel
+* https://github.com/liberu-genealogy/genealogy-laravel
 * https://github.com/liberu-maintenance/maintenance-laravel
 * https://github.com/liberu-real-estate/real-estate-laravel
+* https://github.com/liberu-social-network/social-network-laravel
+
+
 
 ### Our Approach:
 We believe that every project is unique and deserves a customized approach. When you partner with Liberu, we take the time to understand your business goals, challenges, and requirements. Our team of experts collaborates closely with you to design, develop, and deliver tailor-made solutions that drive growth and enhance your competitive edge.
