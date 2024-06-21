@@ -41,19 +41,6 @@ At Liberu, we are committed to delivering excellence in every project we underta
 
 Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 10, PHP 8.3, Filament 3.2 and Livewire 3 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
 
-## Sponsorship
-Liberu is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
-
-https://github.com/sponsors/laravel-liberu
-
-By sponsoring Liberu, your company/organization can make a meaningful impact in the following ways:
-
-* Promote Corporate Social Responsibility: Your sponsorship will demonstrate your commitment to social responsibility by supporting a project that enables individuals to discover and preserve their family heritage. It showcases your company/organization's dedication to empowering communities and preserving cultural legacies.
-* Increase Brand Visibility: As a sponsor, your company/organization will receive prominent recognition and visibility on our website, promotional materials, and marketing campaigns. This exposure allows you to reach our extensive user base and the wider genealogy community, enhancing brand recognition and strengthening your market position.
-* Targeted Audience Engagement: Liberu attracts a diverse and highly engaged audience interested in genealogy, history, and heritage. By sponsoring our project, you gain direct access to this target audience, enabling you to build meaningful connections, foster brand loyalty, and generate potential leads.
-* Collaboration and Networking Opportunities: Sponsoring Liberu opens doors to collaboration and partnership opportunities within the genealogy and heritage sectors. We welcome the chance to explore mutually beneficial initiatives that align with our shared goals, such as joint events, content creation, or co-branded projects.
-* Corporate Image and Reputation: Supporting an innovative and impactful project like Liberu enhances your company/organization's image as a forward-thinking and socially conscious entity. It showcases your dedication to fostering education, cultural preservation, and community engagement, strengthening your reputation among stakeholders and potential customers.
-
 ## Support services  
 While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
 If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
