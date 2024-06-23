@@ -46,7 +46,7 @@ At Liberu, we are committed to delivering excellence in every project we underta
 
 ## Our Services
 
-Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 10, PHP 8.3, Filament 3.2 and Livewire 3 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
+Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3.5 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
 
 ## Support services  
 While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
@@ -62,5 +62,5 @@ If you need premium support when building your own applications with Liberu, we 
 * Detailed code reviews
 * Support and guidance on Laravel, Filament and Livewire generally. 
 * 1-2-1 assistance on version upgrades
-* Direct communication via Discord (during our office hours only)
+* Direct communication via WhatsApp (during our office hours only)
 * We have 4 members on our dedicated support team, so there should be little if any waiting!
