@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
 
 Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 11, PHP 8.3, Livewire 3, and Filament 3 to redefine the landscape of web development.
 
