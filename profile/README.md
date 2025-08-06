@@ -11,7 +11,7 @@
 
 ## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
 
-Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 11, PHP 8.3, Livewire 3, and Filament 3 to redefine the landscape of web development.
+Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.4 and Filament 4.0 to redefine the landscape of web development.
 
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 11 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
@@ -27,19 +27,19 @@ Welcome to Liberu – where innovation meets freedom, and the future of web deve
 
 ## Our Projects
 
-* https://github.com/liberu-accounting/accounting-laravel
-* https://github.com/liberu-automation/automation-laravel
-* https://github.com/liberu-billing/billing-laravel
-* https://github.com/liberusoftware/boilerplate
-* https://github.com/liberu-browser-game/browser-game-laravel
-* https://github.com/liberu-cms/cms-laravel
-* https://github.com/liberu-control-panel/control-panel-laravel
-* https://github.com/liberu-crm/crm-laravel
-* https://github.com/liberu-ecommerce/ecommerce-laravel
-* https://github.com/liberu-genealogy/genealogy-laravel
-* https://github.com/liberu-maintenance/maintenance-laravel
-* https://github.com/liberu-real-estate/real-estate-laravel
-* https://github.com/liberu-social-network/social-network-laravel
+* https://github.com/liberu-accounting/accounting-laravel [![Install](https://github.com/liberu-accounting/accounting-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-accounting/accounting-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-automation/automation-laravel [![Install](https://github.com/liberu-automation/automation-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-automation/automation-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-billing/billing-laravel [![Install](https://github.com/liberu-billing/billing-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-billing/billing-laravel/actions/workflows/install.yml)
+* https://github.com/liberusoftware/boilerplate [![Install](https://github.com/liberusoftware/boilerplate-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberusoftware/boilerplate-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-browser-game/browser-game-laravel [![Install](https://github.com/liberu-browser-game/browser-game-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-browser-game/browser-game-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-cms/cms-laravel [![Install](https://github.com/liberu-cms/cms-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-cms/cms-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-control-panel/control-panel-laravel [![Install](https://github.com/liberu-control-panel/control-panel-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-control-panel/control-panel-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-crm/crm-laravel [![Install](https://github.com/liberu-crm/crm-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-crm/crm-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-ecommerce/ecommerce-laravel [![Install](https://github.com/liberu-ecommerce/ecommerce-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-ecommerce/ecommerce-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-genealogy/genealogy-laravel [![Install](https://github.com/liberu-genealogy/genealogy-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-genealogy/genealogy-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-maintenance/maintenance-laravel [![Install](https://github.com/liberu-maintenance/maintenance-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-maintenance/maintenance-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-real-estate/real-estate-laravel [![Install](https://github.com/liberu-real-estate/real-estate-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-real-estate/real-estate-laravel/actions/workflows/install.yml)
+* https://github.com/liberu-social-network/social-network-laravel [![Install](https://github.com/liberu-social-network/social-network-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-social-network/social-network-laravel/actions/workflows/install.yml)
 
 
 
