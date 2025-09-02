@@ -13,6 +13,8 @@
 
 Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.4 and Filament 4.0 to redefine the landscape of web development.
 
+## [Contact us on WhatsApp](https://wa.me/+443300437180)
+
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 11 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
 With PHP 8.3 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
