@@ -13,7 +13,7 @@
 
 Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.4 and Filament 4.0 to redefine the landscape of web development.
 [![Alt text](Image_URL)](Link_URL)
-## [!Contact us on WhatsApp](https://logowik.com/content/uploads/images/829_whatsapp_symbol.jpg)(https://wa.me/+442080505865)
+## [![Contact us on WhatsApp](https://logowik.com/content/uploads/images/829_whatsapp_symbol.jpg)](https://wa.me/+442080505865)
 
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 12 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
