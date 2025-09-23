@@ -15,11 +15,11 @@ Welcome to Liberu, our visionary open-source initiative that marries the power o
 
 ## [Contact us on WhatsApp](https://wa.me/+442080505865)
 
-Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 11 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
+Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 12 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
-With PHP 8.3 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
+With PHP 8.4 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
 
-At the heart of administrative efficiency lies Filament 3, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
+At the heart of administrative efficiency lies Filament 4, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
 
 And the best part? Liberu is open-source, released under the permissive MIT license. We invite developers, creators, and contributors from around the globe to join us on this journey. Unleash your creativity, customize Liberu to suit your vision, and contribute to a thriving community dedicated to pushing the boundaries of web development.
 
