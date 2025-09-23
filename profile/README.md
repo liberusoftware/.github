@@ -52,11 +52,11 @@ At Liberu, we are committed to delivering excellence in every project we underta
 
 ## Our Services
 
-Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3.5 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
+Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 12, PHP 8.4, Filament 4.0 and Livewire 3.6 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
 
 ## Support services  
 While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
-If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £200 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
 
 ### With premium support you will get:
 
