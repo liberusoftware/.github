@@ -9,15 +9,15 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# [Managed web hosting for our application packages](https://liberu.co.uk)
+# [Managed web hosting membership for our application packages](https://liberu.co.uk)
 
-Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.4 and Filament 4.0 to redefine the landscape of web development.
+Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 4.1 to redefine the landscape of web development.
 
 [![Contact us on WhatsApp](https://static.vecteezy.com/system/resources/thumbnails/022/493/567/small_2x/3d-render-whatsapp-logo-icon-isolated-on-transparent-background-free-png.png)](https://wa.me/+442080505865)
 
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 12 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
-With PHP 8.4 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
+With PHP 8.5 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
 
 At the heart of administrative efficiency lies Filament 4, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
 
@@ -46,27 +46,16 @@ Welcome to Liberu – where innovation meets freedom, and the future of web deve
 
 
 ### Our Approach:
-We believe that every project is unique and deserves a customized approach. When you partner with Liberu, we take the time to understand your business goals, challenges, and requirements. Our team of experts collaborates closely with you to design, develop, and deliver tailor-made solutions that drive growth and enhance your competitive edge.
 
-At Liberu, we are committed to delivering excellence in every project we undertake. With a customer-centric approach, top-notch expertise, and a passion for innovation, we strive to exceed your expectations and help you achieve your business goals.
+At Liberu, we are committed to delivering excellence in every project we undertake. With a professional approach, top-notch expertise, and a passion for innovation, we strive to exceed your expectations.
 
-## Our Services
+Empowering open-source freedom with modern PHP.
 
-Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 12, PHP 8.4, Filament 4.0 and Livewire 3.6 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
+Liberu Software Ltd is a non-profit organisation dedicated to creating and maintaining high-quality, open-source software built with Laravel 12, Filament 4, and PHP 8.5. Our goal is to make powerful, reliable, and elegant software freely available for personal and commercial use, helping individuals and businesses innovate without barriers.
 
-## Support services  
-While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
-If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £200 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+All our projects are released under the MIT License, ensuring true openness, flexibility, and community-driven development. From admin panels to workflow tools and beyond, we build with care, transparency, and scalability in mind.
 
-### With premium support you will get:
+💖 Support Our Mission
+If you find our software valuable, please consider sponsoring our organisation or purchasing a membership for managed hosting and premium support — your contributions help us sustain development and expand our open-source ecosystem.
 
-* First priority on having your issues addressed
-* A private repo on our own GitHub organisation where you can host your project
-* Help understanding the environment
-* Help becoming more proficient when developing your projects
-* Advice and mentoring
-* Detailed code reviews
-* Support and guidance on Laravel, Filament and Livewire generally. 
-* 1-2-1 assistance on version upgrades
-* Direct communication via WhatsApp (during our office hours only)
-* We have 4 members on our dedicated support team, so there should be little if any waiting!
+🌐 Learn more: liberu.org.uk
