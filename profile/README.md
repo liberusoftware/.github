@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# [Managed web hosting membership for our application packages](https://liberu.co.uk)
+# [Managed instance hosting for our application packages](https://www.liberu.co.uk)
 
 Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 5.2 to redefine the landscape of web development.
 
