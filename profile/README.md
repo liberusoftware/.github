@@ -8,7 +8,7 @@
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 
 
-Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 5.2 to redefine the landscape of web development.
+## Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 5.2 to redefine the landscape of web development.
 
 [![Contact us on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+447762430333)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@liberusoftware)
