@@ -28,8 +28,6 @@ And the best part? Liberu is open-source, released under the permissive MIT lice
 
 Welcome to Liberu – where innovation meets freedom, and the future of web development is in your hands. Together, let's liberate possibilities.
 
-### Licensed under MIT, use for any personal or commercial project.
-
 ## Our projects
 
 The Liberu ecosystem contains a number of companion repositories and packages that extend or demonstrate functionality used in this boilerplate. Below is a concise, professional list of those projects with quick descriptions — follow the links to learn more or to contribute.
