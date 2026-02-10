@@ -11,15 +11,15 @@
 
 # [Managed web hosting membership for our application packages](https://liberu.co.uk)
 
-Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 5.2 to redefine the landscape of web development.
+Welcome to Liberu, our visionary open-source initiative that marries the power of Laravel 12, PHP 8.5 and Filament 5 to redefine the landscape of web development.
 
 [![Contact us on WhatsApp](https://static.vecteezy.com/system/resources/thumbnails/022/493/567/small_2x/3d-render-whatsapp-logo-icon-isolated-on-transparent-background-free-png.png)](https://wa.me/+447762430333)
 
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 12 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
-With PHP 8.5 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 3 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
+With PHP 8.5 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 4 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
 
-At the heart of administrative efficiency lies Filament 4, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
+At the heart of administrative efficiency lies Filament 5, our customizable admin panel built on Laravel. Liberu empowers developers with the tools to mold administrative interfaces to fit the unique needs of their projects, providing an intuitive and modular solution for managing content and operations.
 
 And the best part? Liberu is open-source, released under the permissive MIT license. We invite developers, creators, and contributors from around the globe to join us on this journey. Unleash your creativity, customize Liberu to suit your vision, and contribute to a thriving community dedicated to pushing the boundaries of web development.
 
@@ -51,11 +51,11 @@ At Liberu, we are committed to delivering excellence in every project we underta
 
 Empowering open-source freedom with modern PHP.
 
-Liberu Software Ltd is a non-profit organisation dedicated to creating and maintaining high-quality, open-source software built with Laravel 12, Filament 4, and PHP 8.5. Our goal is to make powerful, reliable, and elegant software freely available for personal and commercial use, helping individuals and businesses innovate without barriers.
+Liberu Software Ltd is a non-profit organisation dedicated to creating and maintaining high-quality, open-source software built with Laravel 12, Filament 5, and PHP 8.5. Our goal is to make powerful, reliable, and elegant software freely available for personal and commercial use, helping individuals and businesses innovate without barriers.
 
 All our projects are released under the MIT License, ensuring true openness, flexibility, and community-driven development. From admin panels to workflow tools and beyond, we build with care, transparency, and scalability in mind.
 
 💖 Support Our Mission
 If you find our software valuable, please consider sponsoring our organisation or purchasing a membership for managed hosting and premium support — your contributions help us sustain development and expand our open-source ecosystem.
 
-🌐 Learn more: liberu.org.uk
+🌐 Learn more: www.liberu.co.uk
