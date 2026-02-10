@@ -32,7 +32,7 @@ Welcome to Liberu – where innovation meets freedom, and the future of web deve
 
 The Liberu ecosystem contains a number of companion repositories and packages that extend or demonstrate functionality used in this boilerplate. Below is a concise, professional list of those projects with quick descriptions — follow the links to learn more or to contribute.
 
-| Project | Repository | Short description |
+| Project | Repository | Short description | Status |
 |---|---:|---|
 | Accounting | [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | Accounting and invoicing features tailored for Laravel applications. | [![Install](https://github.com/liberu-accounting/accounting-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-accounting/accounting-laravel/actions/workflows/install.yml) |
 | Automation | [liberu-automation/automation-laravel](https://github.com/liberu-automation/automation-laravel) | Automation tooling and workflow integrations for Laravel projects. | ![Install](https://github.com/liberu-automation/automation-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-automation/automation-laravel/actions/workflows/install.yml) |
