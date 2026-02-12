@@ -18,6 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/liberugroup)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/liberusoftware)
 
+
 Liberu is not just a collection of technologies; it's a commitment to freedom, collaboration, and innovation. Leveraging Laravel 12 as the foundation, our project encapsulates the essence of a sophisticated PHP framework, offering developers an elegant and powerful toolkit to craft scalable and feature-rich web applications.
 
 With PHP 8.5 at its core, Liberu embraces the latest language enhancements, ensuring optimal performance and compatibility with contemporary development practices. The integration of Livewire 4 introduces a dynamic layer to our projects, seamlessly blending frontend interactivity with backend logic. The result is a user-centric experience that's not only immersive but also streamlines the development process.
