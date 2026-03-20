@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Livewire-4.x-informational?style=flat&logo=Livewire&color=fb70a9)
 ![](https://img.shields.io/badge/Alpine.js-3.x-informational?style=flat&logo=alpinedotjs&color=77c1d2)
 ![](https://img.shields.io/badge/Tailwind_CSS-4.x-informational?style=flat&logo=tailwind-css&color=38bdf8)
-![](https://img.shields.io/badge/Vite-7.x-informational?style=flat&logo=vite&color=646cff)
+![](https://img.shields.io/badge/Vite-8.x-informational?style=flat&logo=vite&color=646cff)
 ![](https://img.shields.io/badge/MySQL-8.x-informational?style=flat&logo=mysql&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-16.x-informational?style=flat&logo=postgresql&color=336791)
 ![](https://img.shields.io/badge/Redis-7.x-informational?style=flat&logo=redis&color=dc382d)
