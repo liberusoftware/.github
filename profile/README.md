@@ -46,21 +46,21 @@ Liberu projects use the technologies declared and tested by each repository. The
 
 ## Liberu ecosystem
 
-| Project | Repository | Purpose |
-|---|---|---|
-| Boilerplate | [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | Shared Laravel application foundation and reference composition |
-| CMS | [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | Structured content, publishing, media, multisite, and headless delivery |
-| CRM | [liberusoftware/crm-laravel](https://github.com/liberusoftware/crm-laravel) | Customer data, sales, marketing, service, and customer success |
-| Billing | [liberusoftware/billing-laravel](https://github.com/liberusoftware/billing-laravel) | Products, subscriptions, invoicing, payments, and provisioning |
-| Accounting | [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | Ledgers, banking, tax, expenses, close, and financial reporting |
-| Ecommerce | [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | Catalog, checkout, orders, fulfillment, returns, B2B, and omnichannel commerce |
-| Control Panel | [liberusoftware/control-panel-laravel](https://github.com/liberusoftware/control-panel-laravel) | Hosting, infrastructure, DNS, mail, databases, backups, and security operations |
-| Automation | [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | Governed workflows, provider-neutral AI, approvals, and connectors |
-| Browser Game | [liberusoftware/browser-game-laravel](https://github.com/liberusoftware/browser-game-laravel) | Persistent browser-based game systems and player experiences |
-| Genealogy | [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | Family trees, evidence, research, collaboration, and historical records |
-| Maintenance | [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | Assets, work orders, scheduling, inventory, compliance, and field operations |
-| Real Estate | [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | Property listings, sales progression, lettings, and agency operations |
-| Social Network | [liberusoftware/social-network-laravel](https://github.com/liberusoftware/social-network-laravel) | Profiles, feeds, communities, messaging, moderation, and federation |
+| Project | Repository | Documentation | Purpose |
+|---|---|---|---|
+| Accounting | [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | [Docs index](https://github.com/liberusoftware/accounting-erp-laravel/tree/main/docs) | Ledgers, banking, tax, expenses, close, and financial reporting |
+| Automation | [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | [Docs index](https://github.com/liberusoftware/automation-laravel/tree/main/docs) | Governed workflows, provider-neutral AI, approvals, and connectors |
+| Billing | [liberusoftware/billing-laravel](https://github.com/liberusoftware/billing-laravel) | [Docs index](https://github.com/liberusoftware/billing-laravel/tree/main/docs) | Products, subscriptions, invoicing, payments, and provisioning |
+| Boilerplate | [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | [Docs index](https://github.com/liberusoftware/boilerplate-laravel/tree/main/docs) | Shared Laravel application foundation and reference composition |
+| Browser Game | [liberusoftware/browser-game-laravel](https://github.com/liberusoftware/browser-game-laravel) | [Docs index](https://github.com/liberusoftware/browser-game-laravel/tree/main/docs) | Persistent browser-based game systems and player experiences |
+| CMS | [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | [Docs index](https://github.com/liberusoftware/cms-laravel/tree/main/docs) | Structured content, publishing, media, multisite, and headless delivery |
+| Control Panel | [liberusoftware/control-panel-laravel](https://github.com/liberusoftware/control-panel-laravel) | [Docs index](https://github.com/liberusoftware/control-panel-laravel/tree/main/docs) | Hosting, infrastructure, DNS, mail, databases, backups, and security operations |
+| CRM | [liberusoftware/crm-laravel](https://github.com/liberusoftware/crm-laravel) | [Docs index](https://github.com/liberusoftware/crm-laravel/tree/main/docs) | Customer data, sales, marketing, service, and customer success |
+| Ecommerce | [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | [Docs index](https://github.com/liberusoftware/ecommerce-laravel/tree/main/docs) | Catalog, checkout, orders, fulfillment, returns, B2B, and omnichannel commerce |
+| Genealogy | [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | [Docs index](https://github.com/liberusoftware/genealogy-laravel/tree/main/docs) | Family trees, evidence, research, collaboration, and historical records |
+| Maintenance | [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | [Docs index](https://github.com/liberusoftware/maintenance-laravel/tree/main/docs) | Assets, work orders, scheduling, inventory, compliance, and field operations |
+| Real Estate | [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | [Docs index](https://github.com/liberusoftware/real-estate-laravel/tree/main/docs) | Property listings, sales progression, lettings, and agency operations |
+| Social Network | [liberusoftware/social-network-laravel](https://github.com/liberusoftware/social-network-laravel) | [Docs index](https://github.com/liberusoftware/social-network-laravel/tree/main/docs) | Profiles, feeds, communities, messaging, moderation, and federation |
 
 ## Documentation and support
 
