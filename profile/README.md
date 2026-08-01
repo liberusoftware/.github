@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.liberusoftware.com">
-    <img src="assets/readme-cover.webp" alt="Liberu Software — open-source Laravel products and services" width="1280">
+    <img src="https://raw.githubusercontent.com/liberusoftware/.github/main/.github/assets/readme-cover.webp" alt="Liberu Software — open-source Laravel products and services" width="1280">
   </a>
 </p>
 
@@ -98,9 +98,5 @@ For support questions, use the issue or discussion route provided by the affecte
 ## Contributors
 
 Thank you to everyone who helps build and maintain Liberu.
-
-<a href="https://github.com/liberusoftware/graphs/contributors">
-  <img src="https://contrib.rocks/image?org=liberusoftware" alt="Liberu Software contributors">
-</a>
 
 [View the Liberu Software contributor graph](https://github.com/liberusoftware/graphs/contributors).
