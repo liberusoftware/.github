@@ -1,0 +1,58 @@
+name: Package tests
+
+# Reusable. A Liberu package repository calls this from its own tests.yml rather
+# than restating the setup — CI.md asks for repeated setup to live in one place,
+# and rule 20's "each repo owns its workflows" is satisfied by the thin caller: a
+# callable Actions workflow is not a Composer package.
+on:
+  workflow_call:
+    inputs:
+      php-version:
+        description: PHP version to test against.
+        type: string
+        default: '8.5'
+      extensions:
+        description: PHP extensions to install.
+        type: string
+        default: 'mbstring, pdo, pdo_sqlite, bcmath, zip, intl'
+      coverage-threshold:
+        description: >
+          Minimum line coverage percentage. Left at 0 a package runs without
+          coverage at all; each repository sets its own figure from its measured
+          baseline, because a threshold below 100% is a migration state rather
+          than a policy (TESTING.md §13).
+        type: number
+        default: 0
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ inputs.php-version }}
+          extensions: ${{ inputs.extensions }}
+          coverage: ${{ inputs.coverage-threshold > 0 && 'xdebug' || 'none' }}
+
+      # No committed lock file: a released package must resolve against whatever
+      # its constraints currently allow, which is what a consumer will install.
+      - name: Install dependencies
+        run: composer update --no-interaction --prefer-dist --no-progress
+
+      - name: Run tests
+        env:
+          THRESHOLD: ${{ inputs.coverage-threshold }}
+        run: |
+          if [ "$THRESHOLD" -gt 0 ]; then
+            vendor/bin/pest --coverage --min="$THRESHOLD"
+          else
+            vendor/bin/pest
+          fi

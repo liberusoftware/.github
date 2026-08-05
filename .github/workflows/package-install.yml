@@ -1,0 +1,46 @@
+name: Package install
+
+# Reusable. Proves the published artefact is installable and its metadata is
+# honest — separately from whether its tests pass, because a package can be green
+# on its own suite and still be uninstallable for a consumer.
+on:
+  workflow_call:
+    inputs:
+      php-version:
+        type: string
+        default: '8.5'
+      extensions:
+        type: string
+        default: 'mbstring, pdo, pdo_sqlite, bcmath, zip, intl'
+
+permissions:
+  contents: read
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ inputs.php-version }}
+          extensions: ${{ inputs.extensions }}
+          coverage: none
+
+      - name: Validate Composer metadata
+        run: composer validate --strict
+
+      - name: Install dependencies
+        run: composer update --no-interaction --prefer-dist --no-progress
+
+      - name: Audit dependencies
+        run: composer audit
+
+      # A package repository ships no lock file, so this is where the tree that
+      # was actually resolved gets recorded for the run.
+      - name: Show resolved versions
+        run: composer show --direct

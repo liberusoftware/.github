@@ -1,0 +1,51 @@
+name: Package compatibility
+
+# Reusable. A library's real compatibility risk is not the PHP version — the
+# fleet pins one — but the span its own constraints claim to support. `^1.0` is a
+# promise about every version in that range, and only --prefer-lowest tests the
+# bottom of it. A package that works solely against the newest of everything has
+# constraints that are lying.
+on:
+  workflow_call:
+    inputs:
+      php-versions:
+        description: JSON array of PHP versions.
+        type: string
+        default: '["8.5"]'
+      extensions:
+        type: string
+        default: 'mbstring, pdo, pdo_sqlite, bcmath, zip, intl'
+
+permissions:
+  contents: read
+
+jobs:
+  compatibility:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    strategy:
+      fail-fast: false
+      matrix:
+        php: ${{ fromJson(inputs.php-versions) }}
+        dependencies: [lowest, highest]
+
+    name: PHP ${{ matrix.php }} / ${{ matrix.dependencies }} dependencies
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          extensions: ${{ inputs.extensions }}
+          coverage: none
+
+      - name: Install dependencies
+        run: |
+          composer update --no-interaction --prefer-dist --no-progress \
+            ${{ matrix.dependencies == 'lowest' && '--prefer-lowest --prefer-stable' || '' }}
+
+      - name: Run tests
+        run: vendor/bin/pest
