@@ -1,6 +1,6 @@
 # Liberu Software
 
-> Open-source Laravel applications, packages, and services for building practical personal/business/enterprise software.
+> Open-source Laravel applications, packages, and services for building practical personal, business and enterprise software.
 
 [Software](https://www.liberusoftware.com) · [Hosting](https://www.liberuhosting.com) · [Services](https://www.liberuservices.com) · [Liberu Group](https://www.liberugroup.com)
 
