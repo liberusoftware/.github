@@ -31,8 +31,14 @@ jobs:
           extensions: ${{ inputs.extensions }}
           coverage: none
 
+      # Not --strict. It promotes every warning to an error, and one of those
+      # warnings is that a published package should leave out the `version`
+      # field. This fleet cannot: ModuleValidator compares each manifest against
+      # Composer\InstalledVersions, and the boundary suite asserts composer.json
+      # and module.json agree on it. --strict failed all 44 packages for saying
+      # so.
       - name: Validate Composer metadata
-        run: composer validate --strict
+        run: composer validate
 
       - name: Install dependencies
         run: composer update --no-interaction --prefer-dist --no-progress
