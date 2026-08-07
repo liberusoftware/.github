@@ -90,7 +90,11 @@ jobs:
             echo "::notice::package-testbench does not ship phpstan.neon at this version — skipping."
             exit 0
           fi
-          vendor/bin/phpstan analyse -c "$CONFIG" -l "$LEVEL" --no-progress src
+          # --memory-limit is explicit rather than inherited: PHPStan exhausts a
+          # 128M php.ini default on a package this size, and the crash surfaces
+          # as "Child process error (exit code 255) while running parallel
+          # worker", which reads like a PHPStan bug rather than a memory limit.
+          vendor/bin/phpstan analyse -c "$CONFIG" -l "$LEVEL" --memory-limit=1G --no-progress src
 
       - name: Run tests
         env:
