@@ -23,6 +23,14 @@ on:
           than a policy (TESTING.md §13).
         type: number
         default: 0
+      phpstan-level:
+        description: >
+          PHPStan level to analyse src/ at. Left at -1 the package is not
+          analysed, so a repository that has not been measured yet is reported
+          rather than failed. Like coverage-threshold this is a ratchet: it is
+          set from a measured baseline and only ever raised.
+        type: number
+        default: -1
 
 permissions:
   contents: read
@@ -46,6 +54,30 @@ jobs:
       # its constraints currently allow, which is what a consumer will install.
       - name: Install dependencies
         run: composer update --no-interaction --prefer-dist --no-progress
+
+      # Both configurations are shipped by liberusoftware/package-testbench,
+      # which every package already dev-requires, so no package carries a
+      # pint.json or a phpstan.neon of its own. PINT.md asks for pint.json at
+      # the repository root; the same document calls inconsistent package
+      # configurations a defect, and 44 committed copies is how they become
+      # inconsistent. Pint has no include mechanism, so the shared ruleset can
+      # only be reached through --config.
+      - name: Check formatting
+        run: vendor/bin/pint --test --config vendor/liberusoftware/package-testbench/pint.json
+
+      # Skipped rather than failed when the level is unset: a package that has
+      # not been measured yet should show up as unmeasured, not as broken.
+      - name: Static analysis
+        env:
+          LEVEL: ${{ inputs.phpstan-level }}
+        run: |
+          if [ "$LEVEL" -lt 0 ]; then
+            echo "::notice::phpstan-level is unset — skipping static analysis for this package."
+            exit 0
+          fi
+          vendor/bin/phpstan analyse \
+            -c vendor/liberusoftware/package-testbench/phpstan.neon \
+            -l "$LEVEL" --no-progress src
 
       - name: Run tests
         env:
