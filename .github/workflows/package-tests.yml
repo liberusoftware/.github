@@ -62,8 +62,18 @@ jobs:
       # configurations a defect, and 44 committed copies is how they become
       # inconsistent. Pint has no include mechanism, so the shared ruleset can
       # only be reached through --config.
+      #
+      # Skipped when the installed testbench predates them, so a package pinned
+      # to an older constraint is reported rather than failed by a config file
+      # its dependency tree cannot yet contain.
       - name: Check formatting
-        run: vendor/bin/pint --test --config vendor/liberusoftware/package-testbench/pint.json
+        run: |
+          CONFIG=vendor/liberusoftware/package-testbench/pint.json
+          if [ ! -f "$CONFIG" ]; then
+            echo "::notice::package-testbench does not ship pint.json at this version — skipping."
+            exit 0
+          fi
+          vendor/bin/pint --test --config "$CONFIG"
 
       # Skipped rather than failed when the level is unset: a package that has
       # not been measured yet should show up as unmeasured, not as broken.
@@ -71,13 +81,16 @@ jobs:
         env:
           LEVEL: ${{ inputs.phpstan-level }}
         run: |
+          CONFIG=vendor/liberusoftware/package-testbench/phpstan.neon
           if [ "$LEVEL" -lt 0 ]; then
             echo "::notice::phpstan-level is unset — skipping static analysis for this package."
             exit 0
           fi
-          vendor/bin/phpstan analyse \
-            -c vendor/liberusoftware/package-testbench/phpstan.neon \
-            -l "$LEVEL" --no-progress src
+          if [ ! -f "$CONFIG" ]; then
+            echo "::notice::package-testbench does not ship phpstan.neon at this version — skipping."
+            exit 0
+          fi
+          vendor/bin/phpstan analyse -c "$CONFIG" -l "$LEVEL" --no-progress src
 
       - name: Run tests
         env:
