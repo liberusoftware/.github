@@ -1,103 +1,168 @@
 # Liberu Software
 
-> Open-source Laravel applications, packages, and services for building practical personal, business and enterprise software.
+Open-source applications and reusable modules for personal, business and enterprise software. Choose a product, then choose the web, mobile or desktop presentation that fits your users.
 
-[Software](https://www.liberusoftware.com) · [Hosting](https://www.liberuhosting.com) · [Services](https://www.liberuservices.com) · [Liberu Group](https://www.liberugroup.com)
+[Software](https://www.liberusoftware.com) · [Hosting](https://www.liberuhosting.com) · [Services](https://www.liberuservices.com) · [Liberu Group](https://www.liberugroup.com) · [Documentation](https://github.com/liberusoftware/documentation)
 
-<p align="center">
-  <a href="https://www.liberusoftware.com">
-    <img src="https://raw.githubusercontent.com/liberusoftware/.github/main/.github/assets/readme-cover.webp" alt="Liberu Software — open-source Laravel products and services" width="1280">
-  </a>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/liberusoftware/.github/main/.github/assets/readme-cover.webp" alt="Liberu Software — practical open-source applications" width="1280"></p>
+
+## Choose a presentation
+
+Start with a Boilerplate foundation for a new application, or choose a product repository from the catalogs below. Laravel hosts own domain rules and authorization. Independent web and device applications integrate through reviewed APIs.
+
+| Presentation | Boilerplate | Application boundary |
+| --- | --- | --- |
+| Laravel · Filament | [Start here](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | PHP/Composer Laravel host with Filament panels |
+| Laravel · Inertia · Vue | [Start here](https://github.com/liberusoftware/project-boilerplate-laravel-inertia-vue) | Laravel routes and sessions with Vue pages over the Inertia protocol |
+| Laravel · Inertia · React | [Start here](https://github.com/liberusoftware/project-boilerplate-laravel-inertia-react) | Laravel routes and sessions with React pages over the Inertia protocol |
+| Nuxt · Vue | [Start here](https://github.com/liberusoftware/project-boilerplate-nuxt-vue) | Independent Vue application with Nuxt server rendering and reviewed API integration |
+| Next.js · React | [Start here](https://github.com/liberusoftware/project-boilerplate-next-react) | Independent React application with explicit Next.js server/client boundaries |
+| React Native · Expo | [Start here](https://github.com/liberusoftware/project-boilerplate-mobile-react) | Native iOS/Android application using React Native and Expo |
+| Flutter · Mobile | [Start here](https://github.com/liberusoftware/project-boilerplate-mobile-flutter) | Flutter iOS/Android application using Dart and mobile widgets |
+| Dart · Desktop | [Start here](https://github.com/liberusoftware/project-boilerplate-dart-desktop) | Dedicated Dart desktop application with a Flutter host for Linux, macOS and Windows |
+| Dart · Mobile | [Start here](https://github.com/liberusoftware/project-boilerplate-dart-mobile) | Separate Dart mobile application with a Flutter host for iOS and Android |
+
+The Dart desktop and mobile families use Flutter native hosts with Dart application code. They remain separate applications from the general Flutter mobile family, with their own platform configuration and release identities.
+
+## Projects
+
+| Product | Focus | Documentation |
+| --- | --- | --- |
+| Boilerplate | Shared application foundation and module composition | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md) |
+| Accounting ERP | Ledgers, tax, reporting and finance workflows | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/accounting/README.md) |
+| Automation | AI gateways, approvals, rules and integrations | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/automation/README.md) |
+| Billing | Subscriptions, pricing, payments and provisioning | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/billing/README.md) |
+| Browser Game | Game worlds, players and community workflows | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/browser-game/README.md) |
+| CMS | Content authoring, publishing and delivery | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/cms/README.md) |
+| Control Panel | Infrastructure and hosting operations | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/control-panel/README.md) |
+| CRM | Relationships, sales pipelines and customer service | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/crm/README.md) |
+| Ecommerce | Catalogs, checkout, orders and fulfillment | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/ecommerce/README.md) |
+| Enterprise SAP | Enterprise workspace and cross-product orchestration | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/sap/README.md) |
+| Genealogy | Family trees, research, evidence and collaboration | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/genealogy/README.md) |
+| Liberu Platform | Official sites, staff applications and platform composition | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/liberu/README.md) |
+| Maintenance | Assets, work orders, schedules and field operations | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/maintenance/README.md) |
+| Music DAW | Composition, recording, sequencing and audio production | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/music/README.md) |
+| Real Estate | Listings, sales, lettings and agency operations | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/real-estate/README.md) |
+| Social Network | Profiles, feeds, communities and moderation | [Guide](https://github.com/liberusoftware/documentation/blob/main/projects/social-network/README.md) |
+
+### Laravel applications
+
+Choose Filament for administrative panels, or Inertia with Vue/React for Laravel-owned page routes and sessions.
+
+| Project | Laravel · Filament | Laravel · Inertia · Vue | Laravel · Inertia · React |
+| --- | --- | --- | --- |
+| Boilerplate | [Repository](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | [Repository](https://github.com/liberusoftware/project-boilerplate-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-boilerplate-laravel-inertia-react) |
+| Accounting ERP | [Repository](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | [Repository](https://github.com/liberusoftware/project-accounting-erp-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-accounting-erp-laravel-inertia-react) |
+| Automation | [Repository](https://github.com/liberusoftware/project-automation-laravel-filament) | [Repository](https://github.com/liberusoftware/project-automation-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-automation-laravel-inertia-react) |
+| Billing | [Repository](https://github.com/liberusoftware/project-billing-laravel-filament) | [Repository](https://github.com/liberusoftware/project-billing-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-billing-laravel-inertia-react) |
+| Browser Game | [Repository](https://github.com/liberusoftware/project-browser-game-laravel-filament) | [Repository](https://github.com/liberusoftware/project-browser-game-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-browser-game-laravel-inertia-react) |
+| CMS | [Repository](https://github.com/liberusoftware/project-cms-laravel-filament) | [Repository](https://github.com/liberusoftware/project-cms-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-cms-laravel-inertia-react) |
+| Control Panel | [Repository](https://github.com/liberusoftware/project-control-panel-laravel-filament) | [Repository](https://github.com/liberusoftware/project-control-panel-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-control-panel-laravel-inertia-react) |
+| CRM | [Repository](https://github.com/liberusoftware/project-crm-laravel-filament) | [Repository](https://github.com/liberusoftware/project-crm-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-crm-laravel-inertia-react) |
+| Ecommerce | [Repository](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | [Repository](https://github.com/liberusoftware/project-ecommerce-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-ecommerce-laravel-inertia-react) |
+| Enterprise SAP | [Repository](https://github.com/liberusoftware/project-enterprise-sap-laravel-filament) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-laravel-inertia-react) |
+| Genealogy | [Repository](https://github.com/liberusoftware/project-genealogy-laravel-filament) | [Repository](https://github.com/liberusoftware/project-genealogy-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-genealogy-laravel-inertia-react) |
+| Liberu Platform | [Repository](https://github.com/liberusoftware/project-liberu-official-laravel-filament) | [Repository](https://github.com/liberusoftware/project-liberu-official-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-liberu-official-laravel-inertia-react) |
+| Maintenance | [Repository](https://github.com/liberusoftware/project-maintenance-laravel-filament) | [Repository](https://github.com/liberusoftware/project-maintenance-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-maintenance-laravel-inertia-react) |
+| Music DAW | [Repository](https://github.com/liberusoftware/project-music-daw-laravel-filament) | [Repository](https://github.com/liberusoftware/project-music-daw-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-music-daw-laravel-inertia-react) |
+| Real Estate | [Repository](https://github.com/liberusoftware/project-real-estate-laravel-filament) | [Repository](https://github.com/liberusoftware/project-real-estate-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-real-estate-laravel-inertia-react) |
+| Social Network | [Repository](https://github.com/liberusoftware/project-social-network-laravel-filament) | [Repository](https://github.com/liberusoftware/project-social-network-laravel-inertia-vue) | [Repository](https://github.com/liberusoftware/project-social-network-laravel-inertia-react) |
+
+### Independent web applications
+
+Choose Nuxt with Vue or Next.js with React for independently deployed web applications and server rendering.
+
+| Project | Nuxt · Vue | Next.js · React |
+| --- | --- | --- |
+| Boilerplate | [Repository](https://github.com/liberusoftware/project-boilerplate-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-boilerplate-next-react) |
+| Accounting ERP | [Repository](https://github.com/liberusoftware/project-accounting-erp-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-accounting-erp-next-react) |
+| Automation | [Repository](https://github.com/liberusoftware/project-automation-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-automation-next-react) |
+| Billing | [Repository](https://github.com/liberusoftware/project-billing-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-billing-next-react) |
+| Browser Game | [Repository](https://github.com/liberusoftware/project-browser-game-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-browser-game-next-react) |
+| CMS | [Repository](https://github.com/liberusoftware/project-cms-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-cms-next-react) |
+| Control Panel | [Repository](https://github.com/liberusoftware/project-control-panel-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-control-panel-next-react) |
+| CRM | [Repository](https://github.com/liberusoftware/project-crm-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-crm-next-react) |
+| Ecommerce | [Repository](https://github.com/liberusoftware/project-ecommerce-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-ecommerce-next-react) |
+| Enterprise SAP | [Repository](https://github.com/liberusoftware/project-enterprise-sap-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-next-react) |
+| Genealogy | [Repository](https://github.com/liberusoftware/project-genealogy-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-genealogy-next-react) |
+| Liberu Platform | [Repository](https://github.com/liberusoftware/project-liberu-official-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-liberu-official-next-react) |
+| Maintenance | [Repository](https://github.com/liberusoftware/project-maintenance-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-maintenance-next-react) |
+| Music DAW | [Repository](https://github.com/liberusoftware/project-music-daw-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-music-daw-next-react) |
+| Real Estate | [Repository](https://github.com/liberusoftware/project-real-estate-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-real-estate-next-react) |
+| Social Network | [Repository](https://github.com/liberusoftware/project-social-network-nuxt-vue) | [Repository](https://github.com/liberusoftware/project-social-network-next-react) |
+
+### Mobile and desktop applications
+
+Choose React Native with Expo, Flutter mobile, or a separate Dart mobile/desktop application.
+
+| Project | React Native · Expo | Flutter · Mobile | Dart · Mobile | Dart · Desktop |
+| --- | --- | --- | --- | --- |
+| Boilerplate | [Repository](https://github.com/liberusoftware/project-boilerplate-mobile-react) | [Repository](https://github.com/liberusoftware/project-boilerplate-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-boilerplate-dart-mobile) | [Repository](https://github.com/liberusoftware/project-boilerplate-dart-desktop) |
+| Accounting ERP | [Repository](https://github.com/liberusoftware/project-accounting-erp-mobile-react) | [Repository](https://github.com/liberusoftware/project-accounting-erp-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-accounting-erp-dart-mobile) | [Repository](https://github.com/liberusoftware/project-accounting-erp-dart-desktop) |
+| Automation | [Repository](https://github.com/liberusoftware/project-automation-mobile-react) | [Repository](https://github.com/liberusoftware/project-automation-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-automation-dart-mobile) | [Repository](https://github.com/liberusoftware/project-automation-dart-desktop) |
+| Billing | [Repository](https://github.com/liberusoftware/project-billing-mobile-react) | [Repository](https://github.com/liberusoftware/project-billing-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-billing-dart-mobile) | [Repository](https://github.com/liberusoftware/project-billing-dart-desktop) |
+| Browser Game | [Repository](https://github.com/liberusoftware/project-browser-game-mobile-react) | [Repository](https://github.com/liberusoftware/project-browser-game-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-browser-game-dart-mobile) | [Repository](https://github.com/liberusoftware/project-browser-game-dart-desktop) |
+| CMS | [Repository](https://github.com/liberusoftware/project-cms-mobile-react) | [Repository](https://github.com/liberusoftware/project-cms-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-cms-dart-mobile) | [Repository](https://github.com/liberusoftware/project-cms-dart-desktop) |
+| Control Panel | [Repository](https://github.com/liberusoftware/project-control-panel-mobile-react) | [Repository](https://github.com/liberusoftware/project-control-panel-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-control-panel-dart-mobile) | [Repository](https://github.com/liberusoftware/project-control-panel-dart-desktop) |
+| CRM | [Repository](https://github.com/liberusoftware/project-crm-mobile-react) | [Repository](https://github.com/liberusoftware/project-crm-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-crm-dart-mobile) | [Repository](https://github.com/liberusoftware/project-crm-dart-desktop) |
+| Ecommerce | [Repository](https://github.com/liberusoftware/project-ecommerce-mobile-react) | [Repository](https://github.com/liberusoftware/project-ecommerce-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-ecommerce-dart-mobile) | [Repository](https://github.com/liberusoftware/project-ecommerce-dart-desktop) |
+| Enterprise SAP | [Repository](https://github.com/liberusoftware/project-enterprise-sap-mobile-react) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-dart-mobile) | [Repository](https://github.com/liberusoftware/project-enterprise-sap-dart-desktop) |
+| Genealogy | [Repository](https://github.com/liberusoftware/project-genealogy-mobile-react) | [Repository](https://github.com/liberusoftware/project-genealogy-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-genealogy-dart-mobile) | [Repository](https://github.com/liberusoftware/project-genealogy-dart-desktop) |
+| Liberu Platform | [Repository](https://github.com/liberusoftware/project-liberu-official-mobile-react) | [Repository](https://github.com/liberusoftware/project-liberu-official-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-liberu-official-dart-mobile) | [Repository](https://github.com/liberusoftware/project-liberu-official-dart-desktop) |
+| Maintenance | [Repository](https://github.com/liberusoftware/project-maintenance-mobile-react) | [Repository](https://github.com/liberusoftware/project-maintenance-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-maintenance-dart-mobile) | [Repository](https://github.com/liberusoftware/project-maintenance-dart-desktop) |
+| Music DAW | [Repository](https://github.com/liberusoftware/project-music-daw-mobile-react) | [Repository](https://github.com/liberusoftware/project-music-daw-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-music-daw-dart-mobile) | [Repository](https://github.com/liberusoftware/project-music-daw-dart-desktop) |
+| Real Estate | [Repository](https://github.com/liberusoftware/project-real-estate-mobile-react) | [Repository](https://github.com/liberusoftware/project-real-estate-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-real-estate-dart-mobile) | [Repository](https://github.com/liberusoftware/project-real-estate-dart-desktop) |
+| Social Network | [Repository](https://github.com/liberusoftware/project-social-network-mobile-react) | [Repository](https://github.com/liberusoftware/project-social-network-mobile-flutter) | [Repository](https://github.com/liberusoftware/project-social-network-dart-mobile) | [Repository](https://github.com/liberusoftware/project-social-network-dart-desktop) |
+
+## Get started
+
+1. Select a repository above and read its README and `AGENTS.md`.
+2. Use its pinned toolchain and lockfiles. Follow the [initialization catalog](https://github.com/liberusoftware/documentation/blob/main/projects/REPOSITORIES.md) and [presentation runbooks](https://github.com/liberusoftware/documentation/blob/main/guides/presentation/README.md).
+3. Select reviewed domain/API modules and implement one authorized journey before expanding the application.
+
+Existing Filament repositories retain their product implementations. The other presentation repositories are starting structures with build configuration and explicit integration boundaries; they do not claim completed workflows, device releases or feature parity. Each README links related products using the same presentation and summarizes the alternatives for that product.
+
+## Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-8.5-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-5-FDAE4B)
 ![Livewire](https://img.shields.io/badge/Livewire-4-FB70A9)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![Inertia](https://img.shields.io/badge/Inertia-3-9553E9)
+![React](https://img.shields.io/badge/React-19.3-149ECA?logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3.5-4FC08D?logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16.4-111111?logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-4.6-00DC82?logo=nuxt&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0.88-149ECA?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-58-000020?logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.13-0175C2?logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-26-5FA04E?logo=nodedotjs&logoColor=white)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@liberusoftware)
-[![Contact us on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+441793200950)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/liberusoftware)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/liberusoftware)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/liberusoftware)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/liberu-software)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liberusoftware)
+These badges describe the application foundations' supported technology families. Exact resolved versions live in each repository's lockfiles: the current web/mobile starters use React 19.3, Vue 3.5, Next.js 16.4, Nuxt 4.6, Expo 58 with React Native 0.88, and Flutter 3.47 with Dart 3.13. Existing application manifests remain authoritative during upgrades.
 
-## About Liberu
+## Modules and contribution
 
-Liberu Software is an open-source software organisation focused on reusable Laravel applications and Composer packages. The ecosystem combines modular domain packages with Filament administration, Livewire interactions, APIs, themes, testing conventions, and deployment guidance.
+Application templates and project skeletons use the `project-` prefix. Reusable module repositories use `module-`.
 
-Our projects help individuals, teams, and businesses create maintainable software without locking core capabilities behind proprietary platforms. The code is designed for personal and commercial use under the MIT License, with architecture and documentation kept in the open so the community can inspect, adapt, and improve it.
+Applications compose independent modules. PHP packages use Composer, JavaScript/TypeScript libraries use npm, and Dart/Flutter packages use pub metadata. Reuse canonical owners and keep deployment, application IDs and registry package identities separate from repository names.
 
-Liberu is supported by commercial development, integration, consultancy, and hosting services. That model helps fund ongoing maintenance while keeping the open-source projects available to everyone.
+Start with the [architecture](https://github.com/liberusoftware/documentation/blob/main/architecture/README.md), [module guidance](https://github.com/liberusoftware/documentation/blob/main/architecture/MODULES.md) and [contribution standards](https://github.com/liberusoftware/documentation/blob/main/standards/CONTRIBUTING.md). New presentation packages remain skeletons until their contracts, consumer builds and meaningful journeys are verified. Repository creation does not publish a package to a registry.
 
-## What we build
+[YouTube](https://www.youtube.com/@liberusoftware) · [Facebook](https://www.facebook.com/liberusoftware) · [Instagram](https://www.instagram.com/liberusoftware/)
 
-- Modular Laravel foundations for authentication, teams, permissions, settings, files, notifications, observability, and application composition.
-- Business applications covering accounting, billing, ecommerce, CRM, CMS, automation, maintenance, real estate, genealogy, social networking, and infrastructure control.
-- Reusable Composer modules and presentation packages with explicit ownership, contracts, migrations, events, testing, and upgrade paths.
-- Filament 5 and Livewire 4 surfaces backed by policy-aware domain actions rather than duplicated business logic.
-- Versioned APIs, integrations, webhooks, provider adapters, themes, and documentation for interoperable applications.
+## Reusable module foundations
 
-## Technology
+Application templates use `project-`; independent reusable modules use `module-`. Start capability packages from the matching module foundation and preserve their independent Composer, npm or pub metadata. These templates expose extension points; they do not implement product workflows.
 
-Liberu projects use the technologies declared and tested by each repository. The current application family is centred on PHP 8.5, Laravel 13, Filament 5, and Livewire 4, with Alpine.js, Tailwind CSS, Vite, MySQL or PostgreSQL, Redis, Composer, Git, and GitHub Actions used where appropriate.
-
-## Liberu ecosystem
-
-| Project | Repository | Tests | Release | Documentation | Purpose |
-|---|---|---|---|---|---|
-| Accounting | [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-accounting-erp-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-accounting-erp-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-accounting-erp-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-accounting-erp-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/accounting/features/README.md) | Ledgers, banking, tax, expenses, close, and financial reporting |
-| Automation | [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-automation-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-automation-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-automation-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-automation-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/automation/features/README.md) | Governed workflows, provider-neutral AI, approvals, and connectors |
-| Billing | [liberusoftware/project-billing-laravel-filament](https://github.com/liberusoftware/project-billing-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-billing-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-billing-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-billing-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-billing-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/billing/features/README.md) | Products, subscriptions, invoicing, payments, and provisioning |
-| Boilerplate | [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-boilerplate-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-boilerplate-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-boilerplate-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-boilerplate-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/BOILERPLATE.md) | Shared Laravel application foundation and reference composition |
-| Browser Game | [liberusoftware/project-browser-game-laravel-filament](https://github.com/liberusoftware/project-browser-game-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-browser-game-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-browser-game-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-browser-game-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-browser-game-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/browser-game/features/README.md) | Persistent browser-based game systems and player experiences |
-| CMS | [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-cms-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-cms-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-cms-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-cms-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/cms/features/README.md) | Structured content, publishing, media, multisite, and headless delivery |
-| Control Panel | [liberusoftware/project-control-panel-laravel-filament](https://github.com/liberusoftware/project-control-panel-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-control-panel-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-control-panel-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-control-panel-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-control-panel-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/control-panel/features/README.md) | Hosting, infrastructure, DNS, mail, databases, backups, and security operations |
-| CRM | [liberusoftware/project-crm-laravel-filament](https://github.com/liberusoftware/project-crm-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-crm-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-crm-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-crm-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-crm-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/crm/features/README.md) | Customer data, sales, marketing, service, and customer success |
-| Ecommerce | [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-ecommerce-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-ecommerce-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-ecommerce-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-ecommerce-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/ecommerce/features/README.md) | Catalog, checkout, orders, fulfillment, returns, B2B, and omnichannel commerce |
-| Enterprise SAP | [liberusoftware/project-enterprise-sap-laravel-filament](https://github.com/liberusoftware/project-enterprise-sap-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-enterprise-sap-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-enterprise-sap-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-enterprise-sap-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-enterprise-sap-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/sap/features/README.md) | SAP for Enterprise |
-| Genealogy | [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-genealogy-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-genealogy-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-genealogy-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-genealogy-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/genealogy/features/README.md) | Family trees, evidence, research, collaboration, and historical records |
-| Maintenance | [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-maintenance-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-maintenance-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-maintenance-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-maintenance-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/maintenance/features/README.md) | Assets, work orders, scheduling, inventory, compliance, and field operations |
-| Real Estate | [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-real-estate-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-real-estate-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-real-estate-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-real-estate-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/real-estate/features/README.md) | Property listings, sales progression, lettings, and agency operations |
-| Social Network | [liberusoftware/project-social-network-laravel-filament](https://github.com/liberusoftware/project-social-network-laravel-filament) | [![Tests](https://github.com/liberusoftware/project-social-network-laravel-filament/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/liberusoftware/project-social-network-laravel-filament/actions/workflows/tests.yml) | [![Release](https://img.shields.io/github/v/release/liberusoftware/project-social-network-laravel-filament?sort=semver)](https://github.com/liberusoftware/project-social-network-laravel-filament/releases) | [Documentation index](https://github.com/liberusoftware/documentation/blob/main/projects/social-network/features/README.md) | Profiles, feeds, communities, messaging, moderation, and federation |
-
-## Documentation and support
-
-- [Liberu documentation](https://github.com/liberusoftware/documentation)
-- [Architecture and module standards](https://github.com/liberusoftware/documentation/blob/main/README.md)
-- [Liberu website](https://www.liberusoftware.com)
-- [Professional services](https://www.liberuservices.com)
-- [Managed hosting](https://www.liberuhosting.com)
-- [WhatsApp contact](https://wa.me/+441793200950)
-
-## Services that sustain the projects
-
-| Service | How it helps |
-|---|---|
-| [Liberu Group](https://www.liberugroup.com) | The parent organisation behind Liberu Software and its wider technology portfolio. |
-| [Liberu Services](https://www.liberuservices.com) | Custom development, integrations, consultancy, implementation, and ongoing support. |
-| [Liberu Hosting](https://www.liberuhosting.com) | Managed hosting for Laravel applications, with operational support and maintenance. |
-
-Using these services helps fund continued development and maintenance of the free, open-source ecosystem. You can also [sponsor Liberu on GitHub](https://github.com/sponsors/liberusoftware).
-
-## Security
-
-Please do not report security vulnerabilities through public GitHub issues. Follow the security policy of the affected repository or contact Liberu privately through the published support channels.
-
-## License
-
-Liberu open-source projects are generally distributed under the MIT License unless a repository states otherwise. The license file in each repository is authoritative; this summary is not legal advice.
-
-## Feedback and contributing
-
-Feedback and contributions are welcome. Report reproducible bugs, propose focused improvements, improve documentation or translations, and submit tested pull requests to the relevant repository. Search existing issues first, keep changes focused, include tests where applicable, and document user-visible or breaking changes.
-
-For support questions, use the issue or discussion route provided by the affected repository. Security concerns must follow the private reporting route described above.
-
-## Contributors
-
-Thank you to everyone who helps build and maintain Liberu.
-
-[View the Liberu Software contributor graph](https://github.com/liberusoftware/graphs/contributors).
+| Presentation | Module foundation | Package tool |
+| --- | --- | --- |
+| Laravel · Filament | [module-boilerplate-filament](https://github.com/liberusoftware/module-boilerplate-filament) | Composer |
+| Laravel · Inertia · Vue | [module-boilerplate-vue-inertia](https://github.com/liberusoftware/module-boilerplate-vue-inertia) | npm |
+| Laravel · Inertia · React | [module-boilerplate-react-inertia](https://github.com/liberusoftware/module-boilerplate-react-inertia) | npm |
+| Nuxt · Vue | [module-boilerplate-nuxt](https://github.com/liberusoftware/module-boilerplate-nuxt) | npm |
+| Next.js · React | [module-boilerplate-nextjs](https://github.com/liberusoftware/module-boilerplate-nextjs) | npm |
+| React Native · Expo | [module-boilerplate-react-native](https://github.com/liberusoftware/module-boilerplate-react-native) | npm |
+| Flutter · Mobile | [module-boilerplate-flutter](https://github.com/liberusoftware/module-boilerplate-flutter) | Dart/pub |
+| Dart · Desktop | [module-boilerplate-dart-desktop](https://github.com/liberusoftware/module-boilerplate-dart-desktop) | Dart/pub |
+| Dart · Mobile | [module-boilerplate-dart-mobile](https://github.com/liberusoftware/module-boilerplate-dart-mobile) | Dart/pub |
