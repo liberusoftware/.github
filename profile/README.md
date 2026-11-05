@@ -143,6 +143,8 @@ These badges describe the application foundations' supported technology families
 
 ## Modules and contribution
 
+Browse the [capability module catalogs](https://github.com/liberusoftware/documentation/blob/main/modules/skeletons/README.md) for separate package repositories across every presentation and their current rollout status.
+
 Application templates and project skeletons use the `project-` prefix. Reusable module repositories use `module-`.
 
 Applications compose independent modules. PHP packages use Composer, JavaScript/TypeScript libraries use npm, and Dart/Flutter packages use pub metadata. Reuse canonical owners and keep deployment, application IDs and registry package identities separate from repository names.
