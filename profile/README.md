@@ -5,6 +5,7 @@ Open-source applications and reusable modules for personal, business and enterpr
 [Software](https://www.liberusoftware.com) · [Hosting](https://www.liberuhosting.com) · [Services](https://www.liberuservices.com) · [Liberu Group](https://www.liberugroup.com) · [Documentation](https://github.com/liberusoftware/documentation)
 
 <p align="center"><img src="https://raw.githubusercontent.com/liberusoftware/.github/main/.github/assets/readme-cover.webp" alt="Liberu Software — practical open-source applications" width="1280"></p>
+
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@liberusoftware)
