@@ -16,6 +16,14 @@ Open-source applications and reusable modules for personal, business and enterpr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/liberu-software)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liberusoftware)
 
+## About Liberu
+
+Liberu Software is an open-source software organisation focused on reusable Laravel applications and Composer packages. The ecosystem combines modular domain packages with Filament administration, Livewire interactions, APIs, themes, testing conventions, and deployment guidance.
+
+Our projects help individuals, teams, and businesses create maintainable software without locking core capabilities behind proprietary platforms. The code is designed for personal and commercial use under the MIT License, with architecture and documentation kept in the open so the community can inspect, adapt, and improve it.
+
+Liberu is supported by commercial development, integration, consultancy, and hosting services. That model helps fund ongoing maintenance while keeping the open-source projects available to everyone.
+
 ## Choose a presentation
 
 Start with a Boilerplate foundation for a new application, or choose a product repository from the catalogs below. Laravel hosts own domain rules and authorization. Independent web and device applications integrate through reviewed APIs.
