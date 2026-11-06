@@ -5,6 +5,15 @@ Open-source applications and reusable modules for personal, business and enterpr
 [Software](https://www.liberusoftware.com) · [Hosting](https://www.liberuhosting.com) · [Services](https://www.liberuservices.com) · [Liberu Group](https://www.liberugroup.com) · [Documentation](https://github.com/liberusoftware/documentation)
 
 <p align="center"><img src="https://raw.githubusercontent.com/liberusoftware/.github/main/.github/assets/readme-cover.webp" alt="Liberu Software — practical open-source applications" width="1280"></p>
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@liberusoftware)
+[![Contact us on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+441793200950)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/liberusoftware)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/liberusoftware)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/liberusoftware)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/liberu-software)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liberusoftware)
 
 ## Choose a presentation
 
