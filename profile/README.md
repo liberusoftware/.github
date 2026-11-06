@@ -18,11 +18,17 @@ Open-source applications and reusable modules for personal, business and enterpr
 
 ## About Liberu
 
-Liberu Software is an open-source software organisation focused on reusable Laravel applications and Composer packages. The ecosystem combines modular domain packages with Filament administration, Livewire interactions, APIs, themes, testing conventions, and deployment guidance.
+About Liberu
 
-Our projects help individuals, teams, and businesses create maintainable software without locking core capabilities behind proprietary platforms. The code is designed for personal and commercial use under the MIT License, with architecture and documentation kept in the open so the community can inspect, adapt, and improve it.
+Liberu Software is an open-source software organisation building reusable applications, frameworks, libraries, and development tools across a broad range of technologies. Our ecosystem spans PHP and Laravel, Filament, Livewire, Inertia.js, React, Vue.js, Next.js, Nuxt, React Native, Expo, Flutter, Dart, and Node.js.
 
-Liberu is supported by commercial development, integration, consultancy, and hosting services. That model helps fund ongoing maintenance while keeping the open-source projects available to everyone.
+We develop modular, scalable, and maintainable software for web, mobile, and backend applications. From Laravel-powered platforms and administration panels to modern JavaScript frontends, cross-platform mobile applications, APIs, and Composer packages, our projects provide developers and businesses with flexible foundations for building modern digital solutions.
+
+Our focus is on open-source collaboration, reusable architecture, clean code, and practical development standards. We aim to make high-quality software accessible to individuals, development teams, and businesses, without locking essential capabilities behind proprietary platforms. Our projects are designed for personal and commercial use under the MIT License wherever applicable, with source code, architecture, and documentation openly available for the community to inspect, adapt, extend, and improve.
+
+Liberu brings together technologies and expertise from across the software development ecosystem, enabling solutions that integrate seamlessly across platforms and services. Whether building enterprise applications, SaaS platforms, APIs, websites, administrative systems, or native and cross-platform mobile apps, we provide the tools, packages, and foundations to accelerate development.
+
+Liberu is supported by commercial software development, application integration, consultancy, technical support, and hosting services. This sustainable model helps fund the continued development, maintenance, and expansion of our open-source ecosystem while keeping our projects accessible to everyone.
 
 ## Choose a presentation
 
