@@ -18,8 +18,6 @@ Open-source applications and reusable modules for personal, business and enterpr
 
 ## About Liberu
 
-About Liberu
-
 Liberu Software is an open-source software organisation building reusable applications, frameworks, libraries, and development tools across a broad range of technologies. Our ecosystem spans PHP and Laravel, Filament, Livewire, Inertia.js, React, Vue.js, Next.js, Nuxt, React Native, Expo, Flutter, Dart, and Node.js.
 
 We develop modular, scalable, and maintainable software for web, mobile, and backend applications. From Laravel-powered platforms and administration panels to modern JavaScript frontends, cross-platform mobile applications, APIs, and Composer packages, our projects provide developers and businesses with flexible foundations for building modern digital solutions.
